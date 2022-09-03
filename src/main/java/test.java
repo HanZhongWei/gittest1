@@ -5,7 +5,5 @@ public class test
         System.out.println("hello");
         System.out.println("hello");
         System.out.println("hello");
-        System.out.println("hello");
-        System.out.println("hello");
     }
 }
